@@ -57,4 +57,8 @@ jupyter notebook
 
 For the full pinned version list see [`requirements.txt`](requirements.txt).
 
+## 📖 Reference
+
+Brockwell, P. J., & Davis, R. A. (2009). Time series: theory and methods. Springer science & business media.
+
 ---
